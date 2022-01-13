@@ -1,7 +1,8 @@
 <?php
 
+use App\Http\Controllers\Paymentcontroller;
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\RazorpayPaymentController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -20,3 +21,4 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+

@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="css/Home.css" media="screen">
     <script class="u-script" type="text/javascript" src="js/jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 4.2.6, nicepage.com">
+   
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
     
@@ -29,7 +29,8 @@
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
   </head>
-  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body"><header class="u-clearfix u-header u-header" id="sec-89ad"><div class="u-clearfix u-sheet u-sheet-1">
+  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body">
+    <header class="u-clearfix u-header u-header" id="sec-89ad"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="635" data-image-height="373">
           <img src="images/Screenshot2022-01-08133723.jpg" class="u-logo-image u-logo-image-1">
         </a>
@@ -64,7 +65,7 @@
       </div></header>
     <section class="u-align-center u-black u-clearfix u-section-1" id="carousel_dac7">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-image u-image-circle u-image-1" alt="" data-image-width="1620" data-image-height="1080" data-animation-name="zoomIn" data-animation-duration="2000" data-animation-direction=""></div>
+        <div class="u-image u-image-rectangle u-image-1" alt="" data-image-width="1620" data-image-height="1080" data-animation-name="zoomIn" data-animation-duration="2000" data-animation-direction=""></div>
         <h1 class="u-custom-font u-font-merriweather u-text u-text-body-alt-color u-title u-text-1">Vihar</h1>
         <h2 class="u-text u-text-body-alt-color u-text-2">Jain Community</h2>
       </div>
@@ -97,8 +98,10 @@
           <div class="u-repeater u-repeater-1">
             <div class="u-align-center u-container-style u-custom-item u-list-item u-palette-4-base u-repeater-item u-list-item-1">
               <div class="u-container-layout u-similar-container u-container-layout-1">
-                <div alt="" class="u-image u-image-circle u-image-1" data-image-width="444" data-image-height="500" data-animation-name="zoomIn" data-animation-duration="2000" data-animation-direction=""></div>
-                <h4 class="u-text u-text-1">Donation&nbsp;</h4>
+                <div alt="" class="u-image u-image-square u-image-1" data-image-width="444" data-image-height="500" data-animation-name="zoomIn" data-animation-duration="2000" data-animation-direction=""></div>
+                <h4 class="u-text u-text-1">  </h4>
+                <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IipPIZvNgMtCMw" async> </script> </form>
+                  <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_Ij95mmdjRgF88p" data-button_theme="brand-color" async> </script> </form>
               </div>
             </div>
           </div>
@@ -123,7 +126,7 @@
 		C60,47.739,52.646,44.247,42.117,43.007z"></path>
 </g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></span>
                       <h5 class="u-text u-text-1">Address</h5>
-                      <p class="u-text u-text-2">27 13 Lowe Haven</p>
+                      <p class="u-text u-text-2">JR2C+846 CSPIT (CE/IT), Anand, Gujarat 388421</p>
                     </div>
                   </div>
                   <div class="u-align-center u-container-style u-layout-cell u-palette-2-base u-size-20 u-layout-cell-2">
@@ -141,7 +144,7 @@
 		c-1.237-1.237-1.918-2.885-1.918-4.639S7.775,9.22,9.013,7.983C9.403,7.593,9.403,6.96,9.013,6.569z"></path>
 </g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></span>
                       <h5 class="u-text u-text-3">phone</h5>
-                      <p class="u-text u-text-4">+111 343 43 43</p>
+                      <p class="u-text u-text-4">+02697 265011</p>
                     </div>
                   </div>
                   <div class="u-align-center u-container-style u-grey-5 u-layout-cell u-right-cell u-size-20 u-layout-cell-3" data-animation-name="flipIn" data-animation-duration="2000" data-animation-direction="X">
@@ -166,9 +169,7 @@
     <section class="u-backlink u-clearfix u-grey-80">
       <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
         <span></span>
-      </a>
       
-      </a>. 
     </section>
-  </bodphpy>
+  </body>
 </html>

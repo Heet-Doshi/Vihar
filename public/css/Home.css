@@ -7,11 +7,11 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 283px;
+  width: 363px;
   height: 283px;
-  background-image: url("../images/pexels-photo-10003543.jpeg");
+  background-image: url("../images/jainflag.jpg");
   background-position: 50% 50%;
-  margin: 57px auto 0;
+  margin: 57px  auto 0;
 }
 
 .u-section-1 .u-text-1 {
@@ -221,8 +221,8 @@
 .u-section-3 .u-image-1 {
   height: 265px;
   object-position: 50% 26.1%;
-  width: 265px;
-  background-image: url("images/admin-login-portal-500x500.png");
+  width: 390px;
+  background-image: url("../images/Make-a-Donation.jpg");
   background-position: 50% 50%;
   margin: 29px auto 0;
 }
@@ -281,7 +281,7 @@
     margin-right: 0;
   }
 } .u-section-4 {
-  background-image: url("images/pexels-photo-3204506.jpeg");
+  background-image: url("../images/Make-a-Donation.jpg");
   background-position: 50% 50%;
 }
 
