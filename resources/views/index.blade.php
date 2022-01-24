@@ -78,7 +78,7 @@
               <div class="u-container-layout u-similar-container u-container-layout-1">
                 <div alt="" class="u-image u-image-circle u-image-1" data-image-width="444" data-image-height="500" data-animation-name="zoomIn" data-animation-duration="2000" data-animation-direction=""></div>
                 <h4 class="u-text u-text-1">ADMIN</h4>
-                <a href="https://nicepage.com/k/retro-website-templates" class="u-active-none u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-1">Login&nbsp;</a>
+                <a href="login" class="u-active-none u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-1">Login&nbsp;</a>
               </div>
             </div>
             <div class="u-align-center u-border-2 u-border-grey-75 u-container-style u-list-item u-repeater-item">
@@ -101,7 +101,7 @@
                 <div alt="" class="u-image u-image-square u-image-1" data-image-width="444" data-image-height="500" data-animation-name="zoomIn" data-animation-duration="2000" data-animation-direction=""></div>
                 <h4 class="u-text u-text-1">  </h4>
                 <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IipPIZvNgMtCMw" async> </script> </form>
-                  <form><script src="https://cdn.razorpay.com/static/widget/subscription-button.js" data-subscription_button_id="pl_Ij95mmdjRgF88p" data-button_theme="brand-color" async> </script> </form>
+                  
               </div>
             </div>
           </div>
