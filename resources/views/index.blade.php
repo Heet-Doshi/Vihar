@@ -78,14 +78,14 @@
               <div class="u-container-layout u-similar-container u-container-layout-1">
                 <div alt="" class="u-image u-image-circle u-image-1" data-image-width="444" data-image-height="500" data-animation-name="zoomIn" data-animation-duration="2000" data-animation-direction=""></div>
                 <h4 class="u-text u-text-1">ADMIN</h4>
-                <a href="login" class="u-active-none u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-1">Login&nbsp;</a>
+                <a href="" class="u-active-none u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-1">Login&nbsp;</a>
               </div>
             </div>
             <div class="u-align-center u-border-2 u-border-grey-75 u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-container-layout-2">
                 <div alt="" class="u-image u-image-circle u-image-2" data-image-width="800" data-image-height="771" data-animation-name="zoomIn" data-animation-duration="2000" data-animation-direction=""></div>
                 <h4 class="u-text u-text-2">User</h4>
-                <a href="https://nicepage.com/html-templates" class="u-active-none u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-2">Login</a>
+                <a href="login" class="u-active-none u-border-2 u-border-white u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-2">Login</a>
               </div>
             </div>
           </div>

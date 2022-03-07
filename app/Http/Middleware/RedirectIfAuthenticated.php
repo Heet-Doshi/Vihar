@@ -23,8 +23,9 @@ class RedirectIfAuthenticated
 
         foreach ($guards as $guard) {
             if (Auth::guard($guard)->check()) {
-                return redirect("admin");
+                return redirect("hotwater");
             }
+           
         }
 
         return $next($request);
