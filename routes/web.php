@@ -45,3 +45,6 @@ Route::get('hotwater2',[App\Http\Controllers\hotwatercontroller::class,'index'])
 
 Route::get('findhotwater',[App\Http\Controllers\retrivehotwatercontroller::class,'index']);
 Route::get('findhotwatershow', [\App\Http\Controllers\hotwatercontroller::class, 'show']);
+Route::get('contact',function (){
+    return view('contact');
+});
