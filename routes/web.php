@@ -11,6 +11,7 @@ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\hotwatercontroller;
 use App\Http\Controllers\retrivehotwatercontroller;
+use App\Http\Controllers\guidecontroller;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -45,6 +46,15 @@ Route::get('hotwater2',[App\Http\Controllers\hotwatercontroller::class,'index'])
 
 Route::get('findhotwater',[App\Http\Controllers\retrivehotwatercontroller::class,'index']);
 Route::get('findhotwatershow', [\App\Http\Controllers\hotwatercontroller::class, 'show']);
-Route::get('contact',function (){
+Route::get('/contact',function (){
     return view('contact');
+});
+Route::get('/guide',function()
+{
+    return view('guidehome');
+});
+Route::post('/supply',[\App\Http\Controllers\guidecontroller::class,'store'])->name('supply');
+Route::get('/guidesupply',function()
+{
+    return view('supplyguide');
 });
