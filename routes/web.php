@@ -58,3 +58,7 @@ Route::get('/guidesupply',function()
 {
     return view('supplyguide');
 });
+Route::get('findguide',[\App\Http\Controllers\guidecontroller::class,'show'])->name('findguide');
+Route::get('/about',function(){
+    return view('about');
+});

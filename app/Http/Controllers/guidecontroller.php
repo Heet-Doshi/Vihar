@@ -43,7 +43,7 @@ class guidecontroller extends Controller
         $guide->latitude=$request->input('latitude');
         $guide->longitude=$request->input('longitude');
         $guide->save();
-        return redirect("guide");
+        return redirect("guidehome");
     }
 
     /**
@@ -52,11 +52,10 @@ class guidecontroller extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show()
     {
-        $guide = guide::all();
-        // $users = DB::select('select * from hotwaters');
-        return view('findguide',['users'=>$guide]);
+        $users = DB::select('select * from guide');
+        return view('findguide',['users'=>$users]);
     }
 
     /**

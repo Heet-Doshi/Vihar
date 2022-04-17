@@ -1,7 +1,7 @@
 <!DOCTPE html>
 <html>
 <head>
-<title>View Hotwater Records</title>
+<title>View Guide Records</title>
 </head>
 <body>
 <table border = "1">
@@ -12,7 +12,6 @@
 <td>Status </td>
 <td>mobile</td>
 </tr>
-
 @foreach ($users as $user)
 <tr>
 <td>{{ $user->id }}</td>
@@ -24,4 +23,4 @@
 @endforeach
 </table>
 </body>
-</html>     
+</html>

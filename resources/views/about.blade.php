@@ -7,13 +7,14 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Guide page </title>
+    <title>Contact</title>
     <link rel="stylesheet" href="css/nicepage.css" media="screen">
-<link rel="stylesheet" href="css/Page-23.css" media="screen">
+<link rel="stylesheet" href="css/Contact.css" media="screen">
     <script class="u-script" type="text/javascript" src="js/jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 4.2.6, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     
     
     <script type="application/ld+json">{
@@ -23,7 +24,7 @@
 		"logo": "images/Screenshot2022-01-08133723.jpg"
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Page 2">
+    <meta property="og:title" content="Contact">
     <meta property="og:type" content="website">
   </head>
   <body class="u-body"><header class="u-clearfix u-header u-header" id="sec-89ad"><div class="u-clearfix u-sheet u-sheet-1">
@@ -40,10 +41,9 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="/" style="padding: 10px 20px;">Home</a>
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Home.html" style="padding: 10px 20px;">Home</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.html" style="padding: 10px 20px;">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="contact" style="padding: 10px 20px;">Contact</a>
-
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Contact.html" style="padding: 10px 20px;">Contact</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
@@ -53,7 +53,6 @@
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html" style="padding: 10px 20px;">Home</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html" style="padding: 10px 20px;">About</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.html" style="padding: 10px 20px;">Contact</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-1.html" style="padding: 10px 20px;">Page 1</a>
 </li></ul>
               </div>
             </div>
@@ -61,15 +60,30 @@
           </div>
         </nav>
       </div></header>
-    <section class="u-clearfix u-custom-color-2 u-section-1" id="sec-94d0">
+    <section class="u-align-left u-clearfix u-section-1" id="carousel_e66c">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-hover-feature u-image u-image-default u-image-1" src="images/images.png" alt="" data-image-width="147" data-image-height="343" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-direction="Up" data-href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuXs4EeiZIhBbWYOsFQsOkuV7bobPfT4RrA&amp;usqp=CAU">
-        <img class="u-hover-feature u-image u-image-round u-radius-50 u-image-2" src="images/a9d1db25-49f6-940c-33db-84fc1a645060.jpeg" alt="" data-image-width="225" data-image-height="225" data-animation-name="slideIn" data-animation-duration="1000" data-animation-direction="Down">
-        <a href="/findguide" class="u-border-2 u-border-hover-palette-4-base u-btn u-button-style u-gradient u-none u-text-body-alt-color u-btn-1" target="_blank">Find&nbsp; A Guide</a>
-        <a href="/guidesupply" class="u-border-2 u-border-active-palette-3-light-1 u-border-hover-palette-3-light-1 u-btn u-button-style u-gradient u-none u-text-body-alt-color u-btn-2" target="_blank">be&nbsp; a guide&nbsp;</a>
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-grey-5 u-layout-cell u-size-30 u-layout-cell-1">
+                <div class="u-container-layout u-valign-middle u-container-layout-1">
+                  <blockquote class="u-border-20 u-border-palette-4-base u-custom-font u-font-montserrat u-text u-text-default u-text-1">About Us</blockquote>
+                  <p class="u-custom-font u-font-montserrat u-text u-text-2">This service is developed for the jain community to serve jain monks and help them in different manners.&nbsp;<br>
+                    <br>
+                    <font color="#2cccc4"><b>This is also develop for the jain people to the devote the 24 lord and numerous jain monks.</b>
+                    </font>
+                  </p>
+                </div>
+              </div>
+              <div class="u-align-center u-container-style u-layout-cell u-size-30 u-layout-cell-2">
+                <div class="u-container-layout u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-container-layout-2">
+                  <img class="u-image u-image-default u-image-1" src="images/0eb45de6-1145-3ccc-ca77-4104ab58102b.jpeg" alt="" data-image-width="160" data-image-height="315">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      
-      
     </section>
     
     
@@ -78,13 +92,13 @@
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
       <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Free Website Templates</span>
+        <span>Website Templates</span>
       </a>
       <p class="u-text">
         <span>created with</span>
       </p>
-      <a class="u-link" href="https://nicepage.site" target="_blank">
-        <span>Best Free Website Builder</span>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
       </a>. 
     </section>
   </body>
