@@ -61,6 +61,13 @@
           </div>
         </nav>
       </div></header>
+      <hr style="position: relative;
+        top: 20px;
+        border: none;
+        height: 20px;
+        background:black;
+        margin-bottom: 50px;">
+        <div class="container">
     <section class="u-clearfix u-custom-color-2 u-section-1" id="sec-94d0">
       <div class="u-clearfix u-sheet u-sheet-1">
         <img class="u-hover-feature u-image u-image-default u-image-1" src="images/images.png" alt="" data-image-width="147" data-image-height="343" data-animation-name="zoomIn" data-animation-duration="1000" data-animation-direction="Up" data-href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuXs4EeiZIhBbWYOsFQsOkuV7bobPfT4RrA&amp;usqp=CAU">

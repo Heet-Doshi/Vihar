@@ -60,6 +60,12 @@
           </div>
         </nav>
       </div></header>
+      <hr style="position: relative;
+        top: 20px;
+        border: none;
+        height: 20px;
+        background: black;
+        margin-bottom: 50px;">
     <section class="u-align-left u-clearfix u-section-1" id="carousel_e66c">
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">

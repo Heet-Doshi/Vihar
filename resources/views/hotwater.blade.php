@@ -27,7 +27,7 @@
     <meta property="og:type" content="website">
   </head>
   <body data-home-page="undefined" data-home-page-title="Page 2" class="u-body"><header class="u-clearfix u-header u-header" id="sec-89ad"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="635" data-image-height="373">
+        <a href="/" class="u-image u-logo u-image-1" data-image-width="635" data-image-height="373">
           <img src="images/Screenshot2022-01-08133723.jpg" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
@@ -62,6 +62,13 @@
           </div>
         </nav>
       </div></header>
+      <hr style="position: relative;
+        top: 20px;
+        border: none;
+        height: 20px;
+        background: black;
+        margin-bottom: 50px;">
+        <div class="container">
     <section class="u-clearfix u-custom-color-2 u-section-1" id="sec-94d0">
       <div class="u-clearfix u-sheet u-sheet-1">
         <img class="u-hover-feature u-image u-image-round u-radius-50 u-image-1" src="images/find_files_spotlight_thumb1200_4-3.jpg" alt="" data-image-width="1200" data-image-height="900" data-animation-name="slideIn" data-animation-duration="1000" data-animation-direction="Down">
