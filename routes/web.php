@@ -62,3 +62,7 @@ Route::get('findguide',[\App\Http\Controllers\guidecontroller::class,'show'])->n
 Route::get('/about',function(){
     return view('about');
 });
+Route::get('footer',function()
+{
+    return View('footer');
+});
